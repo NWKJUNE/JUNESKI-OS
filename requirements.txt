@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+anthropic
+apscheduler
+pyyaml
+keyring
+python-dotenv
+watchdog
+pytest
